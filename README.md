@@ -1,6 +1,6 @@
 # a2oj-online-judge-category-wise-problems-list
 
-**Firstly, I like to thank "Ahmed Aly" for making this awesome site.**
+**Firstly, I like to thank [Ahmed Aly](https://www.linkedin.com/in/ahmed-aly-2a462632) for making this awesome site.**
 
 This site is very helpful for programmer. Recently I came to know that, this site will be no more. So I want to collect the 
 problems data for future uses.
