@@ -12,6 +12,8 @@ Feel free to contact me.
 
 | ID | Name |
 | ------------------------------- | ------------------------------- |
-|1.| [Codeforces Rating < 1300](Ladder/Codeforces Rating 0 to 1299 Extra.md) |
-|2.| [1300 <= Codeforces Rating <= 1399](Ladder/Codeforces Rating 1300 to 1399.md) |
-
+|1.| [Codeforces Rating < 1300](<Ladder/Codeforces Rating 0 to 1299 Extra.md>) |
+|2.| [1300 <= Codeforces Rating <= 1399](<Ladder/Codeforces Rating 1300 to 1399.md>) |
+|3.| [1400 <= Codeforces Rating <= 1499](<Ladder/Codeforces Rating 1499 to 1499.md>) |
+|4.| [1500 <= Codeforces Rating <= 1599](<Ladder/Codeforces Rating 1500 to 1599.md>) |
+|5.| [1600 <= Codeforces Rating <= 1699](<Ladder/Codeforces Rating 1600 to 1699.md>) |
